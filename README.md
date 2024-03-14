@@ -2,6 +2,9 @@
 Конкурсное решение хакатона IT Purple Hack. Кейс: Решение бизнес-задач, связанных с CLTV Альфа банк.
 (Многоклассовая классификация)
 
+Само решение в ноутбуке [it_purple_hack_alpha_ctb_final.ipynb](https://github.com/andrecpc/it-purple-hack-team-feature-88/blob/main/it_purple_hack_alpha_ctb_final.ipynb).
+Для запуска необходимо наличие GPU.
+
 Лучший скор на публичной части лидерборда 0.89544. Достигается за счет предикта с помощью catboost; файл submission_ctb.csv.
 
 Суть решения:
