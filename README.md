@@ -12,7 +12,7 @@
  - Обучаем другую модель классификации end_cluster -- Нейронная сеть на PyTorch и так же предсказываем end_cluster в тесте.
  - Усредняем предсказания нейронки и катбуста.
 
- Решение запускалось в колабе (https://colab.research.google.com/drive/1nfYU9eckDmaV4wvuilXEsyQ8-evqk_3z?usp=sharing) и на кагле (https://www.kaggle.com/pan4sf/it-purple-hack-alpha-ctb)
+ Решение запускалось в [Colab](https://colab.research.google.com/drive/1nfYU9eckDmaV4wvuilXEsyQ8-evqk_3z?usp=sharing) и на [Kaggle](https://www.kaggle.com/pan4sf/it-purple-hack-alpha-ctb).
 
 Скриншот публичного лидерборда на момент загрузки решения на гитхаб
  ![LB](1.png)
