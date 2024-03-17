@@ -15,13 +15,15 @@
  - Обучаем другую модель классификации end_cluster -- Нейронная сеть на PyTorch и так же предсказываем end_cluster в тесте.
  - Усредняем предсказания нейронки и катбуста.
 
+![LB](2.png)
+
  Решение запускалось в [Colab](https://colab.research.google.com/drive/1nfYU9eckDmaV4wvuilXEsyQ8-evqk_3z?usp=sharing) и на [Kaggle](https://www.kaggle.com/pan4sf/it-purple-hack-alpha-ctb).
 
-Скриншот публичного лидерборда на момент загрузки решения на гитхаб
- ![LB](1.png)
+Скриншот лидерборда
+![LB](1.png)
  
 -----------------------------------------------
-
-Нам кажется, что если бы разрешили выбирать несколько сабмитов для финала, то мы бы выбрали усредненный сабмит от нейронки и катбуста, и он бы хорошо себя показал на привате.
 На всякий случай, по [ссылке](https://drive.google.com/drive/folders/1DeiQ6rKnhTbnNGWClalKXGHkwcNK4DLK?usp=sharing) выходные файлы нашего решения.
 А еще если бы было чуть больше времени)) то обучили бы нейронку на большем числе эпох, и тогда бы вообще был космический скор)
+
+[Видео](https://drive.google.com/file/d/1V42kgR0MGhnaZFI_Ya0AhqlZs2CMhQsj/view) с защиты (таймлайн 21:40). [Презентация](https://docs.google.com/presentation/d/1NkBGah6xDasyyRX3c_J2MUYU2bxOCbpK6kisyMSLhxg/edit#slide=id.g28f09fd3858_3_10).
