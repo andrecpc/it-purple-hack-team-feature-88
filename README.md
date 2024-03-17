@@ -1,5 +1,5 @@
 # IT Purple Hack. Team Feature_88
-Конкурсное решение хакатона IT Purple Hack. Кейс: Решение бизнес-задач, связанных с CLTV Альфа банк.
+Конкурсное решение хакатона [IT Purple Hack](https://t.me/it_purple_hack). Кейс: Решение бизнес-задач, связанных с CLTV Альфа банк.
 (Многоклассовая классификация)
 
 Само решение в ноутбуке [it_purple_hack_alpha_ctb_final.ipynb](https://github.com/andrecpc/it-purple-hack-team-feature-88/blob/main/it_purple_hack_alpha_ctb_final.ipynb).
@@ -19,7 +19,8 @@
 
  Решение запускалось в [Colab](https://colab.research.google.com/drive/1nfYU9eckDmaV4wvuilXEsyQ8-evqk_3z?usp=sharing) и на [Kaggle](https://www.kaggle.com/pan4sf/it-purple-hack-alpha-ctb).
 
-Скриншот лидерборда
+Скриншот [лидерборда](https://docs.google.com/spreadsheets/d/1P0jDyXP0LZgqsoYDPvWLEsLix2iC1zOW4adPhCnedHo/edit#gid=0)
+
 ![LB](1.png)
  
 -----------------------------------------------
