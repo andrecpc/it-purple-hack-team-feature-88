@@ -22,6 +22,10 @@
 Скриншот [лидерборда](https://docs.google.com/spreadsheets/d/1P0jDyXP0LZgqsoYDPvWLEsLix2iC1zOW4adPhCnedHo/edit#gid=0)
 
 ![LB](1.png)
+
+Итоговый рейтинг
+
+![LB](3.jpg)
  
 -----------------------------------------------
 На всякий случай, по [ссылке](https://drive.google.com/drive/folders/1DeiQ6rKnhTbnNGWClalKXGHkwcNK4DLK?usp=sharing) выходные файлы нашего решения.
